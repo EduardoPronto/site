@@ -50,7 +50,7 @@ img{max-width:100%;display:block}
 .nav-wrap{
   display:flex; align-items:center; justify-content:space-between; gap:20px; min-height:84px;
 }
-.brand img{height:58px; width:auto}
+.brand img{height:90px; width:auto}
 .nav{display:flex; gap:24px; align-items:center}
 .nav a{font-weight:600; color:var(--muted); transition:.25s ease}
 .nav a:hover{color:var(--blue-deep)}
